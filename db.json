@@ -1,0 +1,4915 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "Part Number": "A101-10-L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 2,
+      "Part Number": "A101-10-M",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 3,
+      "Part Number": "A101-10-S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 4,
+      "Part Number": "A101-10-XL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 5,
+      "Part Number": "A101-10-XXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 6,
+      "Part Number": "A101-10-XXXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 7,
+      "Part Number": "A101-1-L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 8,
+      "Part Number": "A101-1-M",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 9,
+      "Part Number": "A101-1-S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 10,
+      "Part Number": "A101-1-XL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 11,
+      "Part Number": "A101-1-XXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 12,
+      "Part Number": "A101-1-XXXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 13,
+      "Part Number": "A101-4-L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 14,
+      "Part Number": "A101-4-XL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 15,
+      "Part Number": "A101-7-L",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 16,
+      "Part Number": "A101-7-M",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 17,
+      "Part Number": "A101-7-S",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 18,
+      "Part Number": "A101-7-XL",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 19,
+      "Part Number": "A101-7-XXL",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 20,
+      "Part Number": "A101-7-XXXL",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 21,
+      "Part Number": "A101-7-XXXXL",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 22,
+      "Part Number": "A103-1-L",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 23,
+      "Part Number": "A103-1-M",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 24,
+      "Part Number": "A103-1-S",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 25,
+      "Part Number": "A103-1-XL",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 26,
+      "Part Number": "A104-1-L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 27,
+      "Part Number": "A104-1-M",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 28,
+      "Part Number": "A104-1-S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 29,
+      "Part Number": "A104-1-XL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 30,
+      "Part Number": "A104-1-XXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 31,
+      "Part Number": "A104-1-XXXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 32,
+      "Part Number": "A104-3-L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 33,
+      "Part Number": "A104-3-M",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 34,
+      "Part Number": "A104-3-S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 35,
+      "Part Number": "A104-3-XL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 36,
+      "Part Number": "A104-3-XXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 37,
+      "Part Number": "A104-3-XXXL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 38,
+      "Part Number": "A107-1",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 39,
+      "Part Number": "A107-2",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 40,
+      "Part Number": "A107-3",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 41,
+      "Part Number": "A107-4",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 42,
+      "Part Number": "A107-5",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 43,
+      "Part Number": "A107-6",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 44,
+      "Part Number": "A107-7",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 45,
+      "Part Number": "A107-8",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 46,
+      "Part Number": "A108-1",
+      "IN Stock": 4,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 47,
+      "Part Number": "ADK-LT100G",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 48,
+      "Part Number": "ADK-LT100R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 49,
+      "Part Number": "ADK-LT101G",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 50,
+      "Part Number": "ADK-LT101R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 51,
+      "Part Number": "BK1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 52,
+      "Part Number": "BK2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 53,
+      "Part Number": "BOR000904",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 54,
+      "Part Number": "BOR000910",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 55,
+      "Part Number": "BOR000937",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 56,
+      "Part Number": "BOR000940",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 57,
+      "Part Number": "BOR000941",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 58,
+      "Part Number": "BOR000943",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 59,
+      "Part Number": "BOR000945",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 60,
+      "Part Number": "BOR000950",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 61,
+      "Part Number": "BOR000951",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 62,
+      "Part Number": "C100",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 63,
+      "Part Number": "C212D-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 64,
+      "Part Number": "C212D-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 65,
+      "Part Number": "C212S-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 66,
+      "Part Number": "C212S-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 67,
+      "Part Number": "C214D-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 68,
+      "Part Number": "C214D-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 69,
+      "Part Number": "C214S-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 70,
+      "Part Number": "C214S-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 71,
+      "Part Number": "CAK061R-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 72,
+      "Part Number": "CAK061R-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 73,
+      "Part Number": "CAK400R-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 74,
+      "Part Number": "CAK400R-6.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 75,
+      "Part Number": "CAK400R-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 76,
+      "Part Number": "CAK688R-6.75W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 77,
+      "Part Number": "CAK688R-7.5W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 78,
+      "Part Number": "CAK688R-8.0W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 79,
+      "Part Number": "CAK688R-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 80,
+      "Part Number": "CAK689R-6.75W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 81,
+      "Part Number": "CAK689R-8.0W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 82,
+      "Part Number": "CAK689R-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 83,
+      "Part Number": "CAK691R-6.75W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 84,
+      "Part Number": "CAK691R-7.5W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 85,
+      "Part Number": "CAK691R-8.0W",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 86,
+      "Part Number": "CAK691R-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 87,
+      "Part Number": "CAK752R-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 88,
+      "Part Number": "CAK75XR-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 89,
+      "Part Number": "CAK858",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 90,
+      "Part Number": "CK100",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 91,
+      "Part Number": "CK100-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 92,
+      "Part Number": "CK100-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 93,
+      "Part Number": "CK212D-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 94,
+      "Part Number": "CK212D-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 95,
+      "Part Number": "CK212S-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 96,
+      "Part Number": "CK212S-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 97,
+      "Part Number": "CK214D-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 98,
+      "Part Number": "CK214D-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 99,
+      "Part Number": "CK214S-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 100,
+      "Part Number": "CK214S-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 101,
+      "Part Number": "CL05",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 102,
+      "Part Number": "COL13A2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 103,
+      "Part Number": "COL13A3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 104,
+      "Part Number": "COL13S2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 105,
+      "Part Number": "COL13S3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 106,
+      "Part Number": "COL17A2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 107,
+      "Part Number": "COL17A3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 108,
+      "Part Number": "COL17S2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 109,
+      "Part Number": "COL17S3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 110,
+      "Part Number": "COL29A2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 111,
+      "Part Number": "COL29A3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 112,
+      "Part Number": "COL29S2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 113,
+      "Part Number": "COL29S3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 114,
+      "Part Number": "COL37A2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 115,
+      "Part Number": "COL37A3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 116,
+      "Part Number": "COL37S2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 117,
+      "Part Number": "COL37S3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 118,
+      "Part Number": "CV100-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 119,
+      "Part Number": "CV100-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 120,
+      "Part Number": "CV300",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 121,
+      "Part Number": "ESP5200",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 122,
+      "Part Number": "FHA125-B",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 123,
+      "Part Number": "FHA125-B-SE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 124,
+      "Part Number": "FHA125-S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 125,
+      "Part Number": "FHA160-B",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 126,
+      "Part Number": "FHA160-B-SE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 127,
+      "Part Number": "FHA160-J",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 128,
+      "Part Number": "FHA160-S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 129,
+      "Part Number": "FHA160-S-SE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 130,
+      "Part Number": "FHA200-B",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 131,
+      "Part Number": "FHC04.50",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 132,
+      "Part Number": "FHC04.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 133,
+      "Part Number": "FHC04JK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 134,
+      "Part Number": "FHC04L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 135,
+      "Part Number": "FHC04S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 136,
+      "Part Number": "FHC06C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 137,
+      "Part Number": "FHC06CS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 138,
+      "Part Number": "FHC08",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 139,
+      "Part Number": "FHC09C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 140,
+      "Part Number": "FHC09CS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 141,
+      "Part Number": "FHC10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 142,
+      "Part Number": "FHC11C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 143,
+      "Part Number": "FHC11CS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 144,
+      "Part Number": "FHC12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 145,
+      "Part Number": "FHC13C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 146,
+      "Part Number": "FHC13CS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 147,
+      "Part Number": "FHC14",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 148,
+      "Part Number": "FHC15C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 149,
+      "Part Number": "FHC15CS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 150,
+      "Part Number": "FHC18",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 151,
+      "Part Number": "FHC19C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 152,
+      "Part Number": "FHC19CS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 153,
+      "Part Number": "FHDV-STD",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 154,
+      "Part Number": "FHK100P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 155,
+      "Part Number": "FHK100RS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 156,
+      "Part Number": "FHK100TC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 157,
+      "Part Number": "FHK100TJ",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 158,
+      "Part Number": "FHK110",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 159,
+      "Part Number": "FHK200P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 160,
+      "Part Number": "FHK200TC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 161,
+      "Part Number": "FHK200TJ",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 162,
+      "Part Number": "FHK300P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 163,
+      "Part Number": "FHK300RS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 164,
+      "Part Number": "FHK400JK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 165,
+      "Part Number": "FHK400JK-1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 166,
+      "Part Number": "FHK400P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 167,
+      "Part Number": "FHK400RS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 168,
+      "Part Number": "FHK400TJ",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 169,
+      "Part Number": "FHK410",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 170,
+      "Part Number": "FHK910",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 171,
+      "Part Number": "FHK920",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 172,
+      "Part Number": "FHRS1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 173,
+      "Part Number": "FHRS2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 174,
+      "Part Number": "FHV-CE120",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 175,
+      "Part Number": "FHV-CE160",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 176,
+      "Part Number": "FHV-CE185",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 177,
+      "Part Number": "FHV-CE230",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 178,
+      "Part Number": "FHV-RR125",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 179,
+      "Part Number": "FHV-RR160",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 180,
+      "Part Number": "FLK729",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 181,
+      "Part Number": "FL-PSC8061",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 182,
+      "Part Number": "FL-PSC8061-4PAK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 183,
+      "Part Number": "FL-PSC8061-CASE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 184,
+      "Part Number": "FL-SWE715",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 185,
+      "Part Number": "FL-SWE715-4PAK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 186,
+      "Part Number": "FL-SWE715-CASE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 187,
+      "Part Number": "FL-SWE729",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 188,
+      "Part Number": "H0304-C-04",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 189,
+      "Part Number": "H0304-C-06",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 190,
+      "Part Number": "H0304-C-08",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 191,
+      "Part Number": "H0304-C-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 192,
+      "Part Number": "H0304-C-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 193,
+      "Part Number": "H6400-10-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 194,
+      "Part Number": "H6400-12-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 195,
+      "Part Number": "H6400-6-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 196,
+      "Part Number": "H6400-6-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 197,
+      "Part Number": "H6400-8-8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 198,
+      "Part Number": "HA7-645",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 199,
+      "Part Number": "HA7-690",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 200,
+      "Part Number": "HA7-HOSE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 201,
+      "Part Number": "HA7-STR",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 202,
+      "Part Number": "HA8-890",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 203,
+      "Part Number": "HA8-HOSE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 204,
+      "Part Number": "HE39106",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 205,
+      "Part Number": "HE80293",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 206,
+      "Part Number": "HE91583",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 207,
+      "Part Number": "HF-LP008",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 208,
+      "Part Number": "HF-LP012",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 209,
+      "Part Number": "HF-LP4512",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 210,
+      "Part Number": "HF-LP9012",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 211,
+      "Part Number": "HF-LP906",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 212,
+      "Part Number": "HF-LP908",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 213,
+      "Part Number": "HK2000",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 214,
+      "Part Number": "HK2003",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 215,
+      "Part Number": "HK2015",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 216,
+      "Part Number": "HK2017",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 217,
+      "Part Number": "HK2018",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 218,
+      "Part Number": "HK2020",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 219,
+      "Part Number": "HK2021",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 220,
+      "Part Number": "HK2022",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 221,
+      "Part Number": "HK2023",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 222,
+      "Part Number": "HK2024",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 223,
+      "Part Number": "HK2025",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 224,
+      "Part Number": "HK2032",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 225,
+      "Part Number": "HK2034-6",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 226,
+      "Part Number": "HK2035",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 227,
+      "Part Number": "HK2036",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 228,
+      "Part Number": "HK2040",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 229,
+      "Part Number": "HK2041",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 230,
+      "Part Number": "HK2042",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 231,
+      "Part Number": "HK2085",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 232,
+      "Part Number": "HK2086",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 233,
+      "Part Number": "HK2088-1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 234,
+      "Part Number": "HK2088-1-XL",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 235,
+      "Part Number": "HK2095",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 236,
+      "Part Number": "HK2098",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 237,
+      "Part Number": "HK2099",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 238,
+      "Part Number": "HK2100-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 239,
+      "Part Number": "HK2100-6-10-BB",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 240,
+      "Part Number": "HK2100-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 241,
+      "Part Number": "HK2100-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 242,
+      "Part Number": "HK2110-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 243,
+      "Part Number": "HK2110-6-10-BB",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 244,
+      "Part Number": "HK2110-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 245,
+      "Part Number": "HK2110-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 246,
+      "Part Number": "HWK-688-PP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 247,
+      "Part Number": "HWK-689-PP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 248,
+      "Part Number": "LK700",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 249,
+      "Part Number": "MB01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 250,
+      "Part Number": "MB03K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 251,
+      "Part Number": "MB05K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 252,
+      "Part Number": "MB06K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 253,
+      "Part Number": "MB11K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 254,
+      "Part Number": "MB15KA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 255,
+      "Part Number": "MB15KB",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 256,
+      "Part Number": "MB15KC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 257,
+      "Part Number": "MB15KD",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 258,
+      "Part Number": "MB22",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 259,
+      "Part Number": "MB35",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 260,
+      "Part Number": "MB35K-1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 261,
+      "Part Number": "MB35K-B",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 262,
+      "Part Number": "MB35K-B-1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 263,
+      "Part Number": "MB35K-B-2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 264,
+      "Part Number": "MB35K-B-3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 265,
+      "Part Number": "MB35K-B-4",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 266,
+      "Part Number": "MB55K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 267,
+      "Part Number": "MB60K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 268,
+      "Part Number": "MB740",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 269,
+      "Part Number": "MB740K-1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 270,
+      "Part Number": "MB740K-2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 271,
+      "Part Number": "MB80",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 272,
+      "Part Number": "MB81K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 273,
+      "Part Number": "MR06",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 274,
+      "Part Number": "MR07",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 275,
+      "Part Number": "PA250",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 276,
+      "Part Number": "PA500",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 277,
+      "Part Number": "PA501",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 278,
+      "Part Number": "PA700",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 279,
+      "Part Number": "PA806",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 280,
+      "Part Number": "PA807",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 281,
+      "Part Number": "PA808",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 282,
+      "Part Number": "PK1100X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 283,
+      "Part Number": "PK1100X-A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 284,
+      "Part Number": "PK1100XH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 285,
+      "Part Number": "PK1100XH-A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 286,
+      "Part Number": "PK1100XH-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 287,
+      "Part Number": "PK1100X-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 288,
+      "Part Number": "PK1150X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 289,
+      "Part Number": "PK1150X-A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 290,
+      "Part Number": "PK1150XH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 291,
+      "Part Number": "PK1150XH-A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 292,
+      "Part Number": "PK1150XH-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 293,
+      "Part Number": "PK1150X-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 294,
+      "Part Number": "PK1200X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 295,
+      "Part Number": "PK1230",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 296,
+      "Part Number": "PK1405",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 297,
+      "Part Number": "PK1405-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 298,
+      "Part Number": "PK1405F",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 299,
+      "Part Number": "PK1405H",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 300,
+      "Part Number": "PK1405X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 301,
+      "Part Number": "PK1405X-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 302,
+      "Part Number": "PK1490",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 303,
+      "Part Number": "PK150",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 304,
+      "Part Number": "PK1860",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 305,
+      "Part Number": "PK1862",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 306,
+      "Part Number": "PK20JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 307,
+      "Part Number": "PK30JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 308,
+      "Part Number": "PK36JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 309,
+      "Part Number": "PK36JP1-FH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 310,
+      "Part Number": "PK36JP2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 311,
+      "Part Number": "PK36JP3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 312,
+      "Part Number": "PK38JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 313,
+      "Part Number": "PK38JP1-FH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 314,
+      "Part Number": "PK40JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 315,
+      "Part Number": "PK40JP1-2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 316,
+      "Part Number": "PK40JP2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 317,
+      "Part Number": "PK40JP2-FH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 318,
+      "Part Number": "PK64JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 319,
+      "Part Number": "PK73FDP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 320,
+      "Part Number": "PK-FHK-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 321,
+      "Part Number": "PK-FHK-P185",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 322,
+      "Part Number": "PK-FHK-TC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 323,
+      "Part Number": "PP2401",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 324,
+      "Part Number": "PP2402",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 325,
+      "Part Number": "PP2404",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 326,
+      "Part Number": "PP2409",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 327,
+      "Part Number": "PP2444A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 328,
+      "Part Number": "PP2450",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 329,
+      "Part Number": "PP2456",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 330,
+      "Part Number": "PP2457",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 331,
+      "Part Number": "PP2465",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 332,
+      "Part Number": "PP3400",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 333,
+      "Part Number": "PP3401",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 334,
+      "Part Number": "PP3402",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 335,
+      "Part Number": "PP3403",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 336,
+      "Part Number": "PP3508",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 337,
+      "Part Number": "PP3608",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 338,
+      "Part Number": "PP3608A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 339,
+      "Part Number": "PP3609",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 340,
+      "Part Number": "PP4104-1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 341,
+      "Part Number": "PP4104-2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 342,
+      "Part Number": "PP4105",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 343,
+      "Part Number": "PSP01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 344,
+      "Part Number": "PVS-100",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 345,
+      "Part Number": "RA-33500",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 346,
+      "Part Number": "RA-360",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 347,
+      "Part Number": "REHS08S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 348,
+      "Part Number": "REHS10S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 349,
+      "Part Number": "REHS12S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 350,
+      "Part Number": "REHS14S-A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 351,
+      "Part Number": "REHS16S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 352,
+      "Part Number": "RESHMS-08-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 353,
+      "Part Number": "RESHMS-10-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 354,
+      "Part Number": "RESHMS-10-14",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 355,
+      "Part Number": "RESHMS-10-16",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 356,
+      "Part Number": "RESHMS-12-14",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 357,
+      "Part Number": "RESHMS-12-16",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 358,
+      "Part Number": "REXFR10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 359,
+      "Part Number": "REXFR10-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 360,
+      "Part Number": "REXML12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 361,
+      "Part Number": "REXMR10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 362,
+      "Part Number": "REXMR12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 363,
+      "Part Number": "RJ01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 364,
+      "Part Number": "RJ02",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 365,
+      "Part Number": "RP13",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 366,
+      "Part Number": "RP13C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 367,
+      "Part Number": "RP13CP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 368,
+      "Part Number": "RP13CP3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 369,
+      "Part Number": "RP13P2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 370,
+      "Part Number": "RP13P3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 371,
+      "Part Number": "RP15",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 372,
+      "Part Number": "RR100",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 373,
+      "Part Number": "RV00",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 374,
+      "Part Number": "SC16",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 375,
+      "Part Number": "SC2200",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 376,
+      "Part Number": "SC2200K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 377,
+      "Part Number": "SC2200K-HK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 378,
+      "Part Number": "SC2201",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 379,
+      "Part Number": "SC2201K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 380,
+      "Part Number": "SC2205",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 381,
+      "Part Number": "SC2205K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 382,
+      "Part Number": "SC2206",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 383,
+      "Part Number": "SC2206K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 384,
+      "Part Number": "SC2206K-SS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 385,
+      "Part Number": "SC2207",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 386,
+      "Part Number": "SC2207K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 387,
+      "Part Number": "SC2212",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 388,
+      "Part Number": "SC2212K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 389,
+      "Part Number": "SC2212K1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 390,
+      "Part Number": "SC2213",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 391,
+      "Part Number": "SC2213K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 392,
+      "Part Number": "SC2216",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 393,
+      "Part Number": "SC2216K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 394,
+      "Part Number": "SC2217",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 395,
+      "Part Number": "SC2217K1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 396,
+      "Part Number": "SC2218",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 397,
+      "Part Number": "SC2218K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 398,
+      "Part Number": "SC2221",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 399,
+      "Part Number": "SC2221K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 400,
+      "Part Number": "SC2222",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 401,
+      "Part Number": "SC2222K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 402,
+      "Part Number": "SC2226",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 403,
+      "Part Number": "SC2226K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 404,
+      "Part Number": "SC2226K-T",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 405,
+      "Part Number": "SC2227",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 406,
+      "Part Number": "SC2227K1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 407,
+      "Part Number": "SC2228",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 408,
+      "Part Number": "SC2228K1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 409,
+      "Part Number": "SC2231",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 410,
+      "Part Number": "SC2231K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 411,
+      "Part Number": "SC2234",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 412,
+      "Part Number": "SC2234K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 413,
+      "Part Number": "SC2238",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 414,
+      "Part Number": "SC2238K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 415,
+      "Part Number": "SC2239K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 416,
+      "Part Number": "SCCL01-0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 417,
+      "Part Number": "SCCL01KF",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 418,
+      "Part Number": "SCCL04-0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 419,
+      "Part Number": "SCCL04KF",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 420,
+      "Part Number": "SCCL05-0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 421,
+      "Part Number": "SCCL05KF",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 422,
+      "Part Number": "SCCL06KF",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 423,
+      "Part Number": "SCK2212KB",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 424,
+      "Part Number": "SCK2217K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 425,
+      "Part Number": "SCK2227K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 426,
+      "Part Number": "SCRK1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 427,
+      "Part Number": "SCRK2-A",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 428,
+      "Part Number": "SCRK2-B",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 429,
+      "Part Number": "SCRK3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 430,
+      "Part Number": "SCRK4",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 431,
+      "Part Number": "SCRK5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 432,
+      "Part Number": "SCRK8",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 433,
+      "Part Number": "SCWP01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 434,
+      "Part Number": "SCWP02",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 435,
+      "Part Number": "SCWP03",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 436,
+      "Part Number": "SF01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 437,
+      "Part Number": "SF02",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 438,
+      "Part Number": "SF03",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 439,
+      "Part Number": "SF04",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 440,
+      "Part Number": "SF07",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 441,
+      "Part Number": "SF10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 442,
+      "Part Number": "SF11",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 443,
+      "Part Number": "SF23",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 444,
+      "Part Number": "SF25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 445,
+      "Part Number": "SF27",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 446,
+      "Part Number": "SF29",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 447,
+      "Part Number": "SFK01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 448,
+      "Part Number": "SG039",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 449,
+      "Part Number": "SG039R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 450,
+      "Part Number": "SG061R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 451,
+      "Part Number": "SG062R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 452,
+      "Part Number": "SG252",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 453,
+      "Part Number": "SG252B",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 454,
+      "Part Number": "SG400R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 455,
+      "Part Number": "SG652",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 456,
+      "Part Number": "SG654S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 457,
+      "Part Number": "SG684",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 458,
+      "Part Number": "SG684R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 459,
+      "Part Number": "SG684R-RH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 460,
+      "Part Number": "SG688",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 461,
+      "Part Number": "SG688R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 462,
+      "Part Number": "SG689R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 463,
+      "Part Number": "SG691R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 464,
+      "Part Number": "SG691R-RH",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 465,
+      "Part Number": "SG752",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 466,
+      "Part Number": "SG752R",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 467,
+      "Part Number": "SG753R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 468,
+      "Part Number": "SG754R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 469,
+      "Part Number": "SG755R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 470,
+      "Part Number": "SG840",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 471,
+      "Part Number": "SG840R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 472,
+      "Part Number": "SG851",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 473,
+      "Part Number": "SG851R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 474,
+      "Part Number": "SG853",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 475,
+      "Part Number": "SG853R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 476,
+      "Part Number": "SG856",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 477,
+      "Part Number": "SG856R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 478,
+      "Part Number": "SG857R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 479,
+      "Part Number": "SGX041-12M",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 480,
+      "Part Number": "SGX041-12S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 481,
+      "Part Number": "SGX041MR",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 482,
+      "Part Number": "SGX041SR",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 483,
+      "Part Number": "SGX042-12S",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 484,
+      "Part Number": "SGX042SR",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 485,
+      "Part Number": "SK110",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 486,
+      "Part Number": "SK115",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 487,
+      "Part Number": "SK210",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 488,
+      "Part Number": "SK230",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 489,
+      "Part Number": "SK231",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 490,
+      "Part Number": "SK232",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 491,
+      "Part Number": "SK233",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 492,
+      "Part Number": "SK240",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 493,
+      "Part Number": "SK241",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 494,
+      "Part Number": "SK242",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 495,
+      "Part Number": "SK250",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 496,
+      "Part Number": "SK251",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 497,
+      "Part Number": "SK252",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 498,
+      "Part Number": "SK300",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 499,
+      "Part Number": "SK310",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 500,
+      "Part Number": "SK320",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 501,
+      "Part Number": "SK336",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 502,
+      "Part Number": "SK337",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 503,
+      "Part Number": "SK601",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 504,
+      "Part Number": "SK688R36JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 505,
+      "Part Number": "SK688R36JP1-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 506,
+      "Part Number": "SK688R36JP1-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 507,
+      "Part Number": "SK688R36JP1-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 508,
+      "Part Number": "SK688R36JP1-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 509,
+      "Part Number": "SK688R36JP1-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 510,
+      "Part Number": "SK688R36JP1-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 511,
+      "Part Number": "SK688R36JP1-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 512,
+      "Part Number": "SK688R36JP1-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 513,
+      "Part Number": "SK688R36JP1-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 514,
+      "Part Number": "SK688R36JP1-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 515,
+      "Part Number": "SK688R36JP1-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 516,
+      "Part Number": "SK688R36JP1-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 517,
+      "Part Number": "SK688R36JP1-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 518,
+      "Part Number": "SK688R36JP1-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 519,
+      "Part Number": "SK688R36JP1-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 520,
+      "Part Number": "SK688R36JP1-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 521,
+      "Part Number": "SK688R36JP1-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 522,
+      "Part Number": "SK688R36JP1-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 523,
+      "Part Number": "SK688R36JP1-OE-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 524,
+      "Part Number": "SK688R36JP1-OE-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 525,
+      "Part Number": "SK688R36JP1-OE-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 526,
+      "Part Number": "SK688R36JP1-OE-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 527,
+      "Part Number": "SK688R36JP1-OE-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 528,
+      "Part Number": "SK688R36JP1-OE-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 529,
+      "Part Number": "SK688R36JP1-OE-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 530,
+      "Part Number": "SK688R36JP1-OE-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 531,
+      "Part Number": "SK688R38JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 532,
+      "Part Number": "SK688R38JP1-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 533,
+      "Part Number": "SK688R38JP1-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 534,
+      "Part Number": "SK688R38JP1-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 535,
+      "Part Number": "SK688R38JP1-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 536,
+      "Part Number": "SK688R38JP1-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 537,
+      "Part Number": "SK688R38JP1-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 538,
+      "Part Number": "SK688R38JP1-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 539,
+      "Part Number": "SK688R38JP1-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 540,
+      "Part Number": "SK688R38JP1-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 541,
+      "Part Number": "SK688R38JP1-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 542,
+      "Part Number": "SK688R38JP1-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 543,
+      "Part Number": "SK688R38JP1-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 544,
+      "Part Number": "SK688R38JP1-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 545,
+      "Part Number": "SK688R38JP1-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 546,
+      "Part Number": "SK688R38JP1-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 547,
+      "Part Number": "SK688R38JP1-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 548,
+      "Part Number": "SK688R38JP1-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 549,
+      "Part Number": "SK688R38JP1-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 550,
+      "Part Number": "SK688R38JP1-OE-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 551,
+      "Part Number": "SK688R38JP1-OE-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 552,
+      "Part Number": "SK688R38JP1-OE-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 553,
+      "Part Number": "SK688R38JP1-OE-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 554,
+      "Part Number": "SK688R38JP1-OE-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 555,
+      "Part Number": "SK688R38JP1-OE-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 556,
+      "Part Number": "SK688R38JP1-OE-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 557,
+      "Part Number": "SK688R38JP1-OE-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 558,
+      "Part Number": "SK689R20JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 559,
+      "Part Number": "SK689R20JP1-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 560,
+      "Part Number": "SK689R20JP1-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 561,
+      "Part Number": "SK689R20JP1-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 562,
+      "Part Number": "SK689R20JP1-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 563,
+      "Part Number": "SK689R20JP1-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 564,
+      "Part Number": "SK689R20JP1-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 565,
+      "Part Number": "SK689R20JP1-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 566,
+      "Part Number": "SK689R20JP1-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 567,
+      "Part Number": "SK689R20JP1-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 568,
+      "Part Number": "SK689R20JP1-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 569,
+      "Part Number": "SK689R20JP1-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 570,
+      "Part Number": "SK689R20JP1-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 571,
+      "Part Number": "SK689R20JP1-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 572,
+      "Part Number": "SK689R20JP1-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 573,
+      "Part Number": "SK689R20JP1-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 574,
+      "Part Number": "SK689R20JP1-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 575,
+      "Part Number": "SK689R20JP1-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 576,
+      "Part Number": "SK689R20JP1-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 577,
+      "Part Number": "SK689R20JP1-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 578,
+      "Part Number": "SK689R36JP2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 579,
+      "Part Number": "SK689R36JP2-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 580,
+      "Part Number": "SK689R36JP2-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 581,
+      "Part Number": "SK689R36JP2-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 582,
+      "Part Number": "SK689R36JP2-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 583,
+      "Part Number": "SK689R36JP2-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 584,
+      "Part Number": "SK689R36JP2-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 585,
+      "Part Number": "SK689R36JP2-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 586,
+      "Part Number": "SK689R36JP2-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 587,
+      "Part Number": "SK689R36JP2-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 588,
+      "Part Number": "SK689R36JP2-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 589,
+      "Part Number": "SK689R36JP2-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 590,
+      "Part Number": "SK689R36JP2-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 591,
+      "Part Number": "SK689R36JP2-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 592,
+      "Part Number": "SK689R36JP2-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 593,
+      "Part Number": "SK689R36JP2-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 594,
+      "Part Number": "SK689R36JP2-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 595,
+      "Part Number": "SK689R36JP2-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 596,
+      "Part Number": "SK689R36JP2-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 597,
+      "Part Number": "SK689R36JP2-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 598,
+      "Part Number": "SK689R36JP3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 599,
+      "Part Number": "SK689R36JP3-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 600,
+      "Part Number": "SK689R36JP3-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 601,
+      "Part Number": "SK689R36JP3-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 602,
+      "Part Number": "SK689R36JP3-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 603,
+      "Part Number": "SK689R36JP3-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 604,
+      "Part Number": "SK689R36JP3-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 605,
+      "Part Number": "SK689R36JP3-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 606,
+      "Part Number": "SK689R36JP3-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 607,
+      "Part Number": "SK689R36JP3-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 608,
+      "Part Number": "SK689R36JP3-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 609,
+      "Part Number": "SK689R36JP3-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 610,
+      "Part Number": "SK689R36JP3-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 611,
+      "Part Number": "SK689R36JP3-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 612,
+      "Part Number": "SK689R36JP3-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 613,
+      "Part Number": "SK689R36JP3-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 614,
+      "Part Number": "SK689R36JP3-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 615,
+      "Part Number": "SK689R36JP3-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 616,
+      "Part Number": "SK689R36JP3-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 617,
+      "Part Number": "SK689R36JP3-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 618,
+      "Part Number": "SK689R64JP1",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 619,
+      "Part Number": "SK689R64JP1-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 620,
+      "Part Number": "SK689R64JP1-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 621,
+      "Part Number": "SK689R64JP1-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 622,
+      "Part Number": "SK689R64JP1-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 623,
+      "Part Number": "SK689R64JP1-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 624,
+      "Part Number": "SK689R64JP1-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 625,
+      "Part Number": "SK689R64JP1-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 626,
+      "Part Number": "SK689R64JP1-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 627,
+      "Part Number": "SK689R64JP1-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 628,
+      "Part Number": "SK689R64JP1-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 629,
+      "Part Number": "SK689R64JP1-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 630,
+      "Part Number": "SK689R64JP1-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 631,
+      "Part Number": "SK689R64JP1-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 632,
+      "Part Number": "SK689R64JP1-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 633,
+      "Part Number": "SK689R64JP1-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 634,
+      "Part Number": "SK689R64JP1-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 635,
+      "Part Number": "SK689R64JP1-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 636,
+      "Part Number": "SK689R64JP1-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 637,
+      "Part Number": "SK689R64JP1-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 638,
+      "Part Number": "SK691R30JP1-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 639,
+      "Part Number": "SK691R30JP1-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 640,
+      "Part Number": "SK691R30JP1-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 641,
+      "Part Number": "SK691R30JP1-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 642,
+      "Part Number": "SK691R30JP1-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 643,
+      "Part Number": "SK691R30JP1-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 644,
+      "Part Number": "SK691R30JP1-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 645,
+      "Part Number": "SK691R30JP1-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 646,
+      "Part Number": "SK691R30JP1-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 647,
+      "Part Number": "SK691R30JP1-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 648,
+      "Part Number": "SK691R30JP1-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 649,
+      "Part Number": "SK691R30JP1-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 650,
+      "Part Number": "SK691R30JP1-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 651,
+      "Part Number": "SK691R30JP1-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 652,
+      "Part Number": "SK691R30JP1-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 653,
+      "Part Number": "SK691R30JP1-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 654,
+      "Part Number": "SK691R30JP1-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 655,
+      "Part Number": "SK691RBK1-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 656,
+      "Part Number": "SK691RBK1-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 657,
+      "Part Number": "SK691RBK1-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 658,
+      "Part Number": "SK691RBK1-6.75W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 659,
+      "Part Number": "SK691RBK1-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 660,
+      "Part Number": "SK691RBK1-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 661,
+      "Part Number": "SK691RBK1-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 662,
+      "Part Number": "SK691RBK1-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 663,
+      "Part Number": "SK691RBK1-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 664,
+      "Part Number": "SK691RBK1-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 665,
+      "Part Number": "SK691RBK1-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 666,
+      "Part Number": "SK691RBK1-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 667,
+      "Part Number": "SK691RBK1-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 668,
+      "Part Number": "SK691RBK1-8.0W-1.5OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 669,
+      "Part Number": "SK691RBK1-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 670,
+      "Part Number": "SK691RBK1-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 671,
+      "Part Number": "SK691RBK1-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 672,
+      "Part Number": "SK691RBK1-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 673,
+      "Part Number": "SK691RBK1-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 674,
+      "Part Number": "SK691RBK2-6.75W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 675,
+      "Part Number": "SK691RBK2-6.75W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 676,
+      "Part Number": "SK691RBK2-6.75W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 677,
+      "Part Number": "SK691RBK2-6.75W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 678,
+      "Part Number": "SK691RBK2-6.75W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 679,
+      "Part Number": "SK691RBK2-6.75W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 680,
+      "Part Number": "SK691RBK2-6.75W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 681,
+      "Part Number": "SK691RBK2-7.5W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 682,
+      "Part Number": "SK691RBK2-7.5W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 683,
+      "Part Number": "SK691RBK2-8.0W-1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 684,
+      "Part Number": "SK691RBK2-8.0W-1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 685,
+      "Part Number": "SK691RBK2-8.0W-1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 686,
+      "Part Number": "SK691RBK2-8.0W-1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 687,
+      "Part Number": "SK691RBK2-8.0W-1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 688,
+      "Part Number": "SK691RBK2-8.0W-2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 689,
+      "Part Number": "SK691RBK2-8.0W-NC",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 690,
+      "Part Number": "SK691RBK2-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 691,
+      "Part Number": "SK752R73FDP",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 692,
+      "Part Number": "SK752R73FDP-OE-1.25",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 693,
+      "Part Number": "SK752R73FDP-OE-1.375",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 694,
+      "Part Number": "SK752R73FDP-OE-1.5",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 695,
+      "Part Number": "SK752R73FDP-OE-1.625",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 696,
+      "Part Number": "SK752R73FDP-OE-1.75",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 697,
+      "Part Number": "SK752R73FDP-OE-2.0",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 698,
+      "Part Number": "SK753-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 699,
+      "Part Number": "SK754-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 700,
+      "Part Number": "SK755-OE",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 701,
+      "Part Number": "SK853",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 702,
+      "Part Number": "SK856",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 703,
+      "Part Number": "SK858",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 704,
+      "Part Number": "SKEC150",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 705,
+      "Part Number": "SKEC151",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 706,
+      "Part Number": "SP1200",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 707,
+      "Part Number": "SP1200X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 708,
+      "Part Number": "SP1200X-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 709,
+      "Part Number": "SP1200X-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 710,
+      "Part Number": "SP1205",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 711,
+      "Part Number": "SP1205C",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 712,
+      "Part Number": "SP1210",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 713,
+      "Part Number": "SP1210X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 714,
+      "Part Number": "SP1300KW",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 715,
+      "Part Number": "SP1305KW-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 716,
+      "Part Number": "SP1305KW-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 717,
+      "Part Number": "SP1400",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 718,
+      "Part Number": "SP1400F",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 719,
+      "Part Number": "SP1401",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 720,
+      "Part Number": "SP1401F",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 721,
+      "Part Number": "SP1402",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 722,
+      "Part Number": "SP1402F",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 723,
+      "Part Number": "SP1403",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 724,
+      "Part Number": "SP1404",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 725,
+      "Part Number": "SP1405",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 726,
+      "Part Number": "SP1405-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 727,
+      "Part Number": "SP1405F",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 728,
+      "Part Number": "SP1405X",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 729,
+      "Part Number": "SP1405X-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 730,
+      "Part Number": "SP1405X-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 731,
+      "Part Number": "SP1406",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 732,
+      "Part Number": "SP1490",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 733,
+      "Part Number": "SP1490R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 734,
+      "Part Number": "SP1490R-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 735,
+      "Part Number": "SP1490X-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 736,
+      "Part Number": "SP1491",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 737,
+      "Part Number": "SP32332",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 738,
+      "Part Number": "SP32362JP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 739,
+      "Part Number": "SP33332",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 740,
+      "Part Number": "SP33332JP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 741,
+      "Part Number": "SP33352",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 742,
+      "Part Number": "SP42362JP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 743,
+      "Part Number": "SP43332JP",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 744,
+      "Part Number": "SP43362J-2402",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 745,
+      "Part Number": "SP43362J-3608",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 746,
+      "Part Number": "SP-SD-FCV",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 747,
+      "Part Number": "SR145-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 748,
+      "Part Number": "SR145-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 749,
+      "Part Number": "SR146-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 750,
+      "Part Number": "SR146-6-10-OA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 751,
+      "Part Number": "SR146-6-10-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 752,
+      "Part Number": "SR146-6-10-SA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 753,
+      "Part Number": "SR146-6-10-SB",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 754,
+      "Part Number": "SR146-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 755,
+      "Part Number": "SR146-6-12-OA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 756,
+      "Part Number": "SR146-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 757,
+      "Part Number": "SR146-8-12-OA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 758,
+      "Part Number": "SR146H-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 759,
+      "Part Number": "SR146H-6-10-OA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 760,
+      "Part Number": "SR146H-6-10-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 761,
+      "Part Number": "SR146H-6-10-SA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 762,
+      "Part Number": "SR146H-6-10-SB",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 763,
+      "Part Number": "SR146H-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 764,
+      "Part Number": "SR146H-6-12-OA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 765,
+      "Part Number": "SR146H-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 766,
+      "Part Number": "SR146H-8-12-OA",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 767,
+      "Part Number": "SR146K-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 768,
+      "Part Number": "SR146K-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 769,
+      "Part Number": "SR148-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 770,
+      "Part Number": "SR148-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 771,
+      "Part Number": "SR148-8-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 772,
+      "Part Number": "SR148-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 773,
+      "Part Number": "SR148-8-16",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 774,
+      "Part Number": "SR148H-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 775,
+      "Part Number": "SR148H-6-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 776,
+      "Part Number": "SR148H-8-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 777,
+      "Part Number": "SR148H-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 778,
+      "Part Number": "SR148HK-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 779,
+      "Part Number": "SR148HK-8-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 780,
+      "Part Number": "SR148HK-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 781,
+      "Part Number": "SR148K-6-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 782,
+      "Part Number": "SR148K-8-10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 783,
+      "Part Number": "SR148K-8-12",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 784,
+      "Part Number": "SR149",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 785,
+      "Part Number": "SR149JK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 786,
+      "Part Number": "SR2001",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 787,
+      "Part Number": "SR2545-10K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 788,
+      "Part Number": "SR2545-12K",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 789,
+      "Part Number": "SR500",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 790,
+      "Part Number": "SR-CAP-P",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 791,
+      "Part Number": "srfil",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 792,
+      "Part Number": "SRFILTER",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 793,
+      "Part Number": "SRFILTER3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 794,
+      "Part Number": "SR-VLK",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 795,
+      "Part Number": "SR-VT",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 796,
+      "Part Number": "SWQR-SP2",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 797,
+      "Part Number": "SWQR-SP3",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 798,
+      "Part Number": "TA750-16L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 799,
+      "Part Number": "TA750-16R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 800,
+      "Part Number": "TA875-14L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 801,
+      "Part Number": "TA875-14R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 802,
+      "Part Number": "TA875-18L",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 803,
+      "Part Number": "TA875-18R",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 804,
+      "Part Number": "TR110XD",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 805,
+      "Part Number": "TR120HD",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 806,
+      "Part Number": "TR120XD",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 807,
+      "Part Number": "TRB10",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 808,
+      "Part Number": "TRCL1.25",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 809,
+      "Part Number": "TRCL1.375",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 810,
+      "Part Number": "TRCL1.5",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 811,
+      "Part Number": "TRCL1.5-OS",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 812,
+      "Part Number": "TRCL1.625",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 813,
+      "Part Number": "TRCL1.75",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 814,
+      "Part Number": "TRCL2.0",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "id": 815,
+      "Part Number": "VB01",
+      "IN Stock": 5,
+      "Date Time": "11/18/2025"
+    },
+    {
+      "Part Number": "PART816",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025",
+      "quantity": 0,
+      "id": 816
+    },
+    {
+      "Part Number": "PART817",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025",
+      "quantity": 0,
+      "id": 817
+    },
+    {
+      "Part Number": "PART818",
+      "IN Stock": 0,
+      "Date Time": "11/18/2025",
+      "quantity": 0,
+      "id": 818
+    }
+  ]
+}
