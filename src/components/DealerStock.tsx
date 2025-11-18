@@ -6,7 +6,10 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { debounce } from "lodash";
 
-const API_URL = "http://localhost:3001/stock";
+const API_URL = 
+  import.meta.env.MODE === "development"
+    ? "http://localhost:3001/stock"
+    : "https://stock-tracker-api-pvj3.onrender.com/stock";
 
 type FtpServer = {
 	name: string;
